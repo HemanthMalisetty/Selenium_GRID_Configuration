@@ -1,6 +1,7 @@
-# Selenium_GRID_Configuration
+# Selenium GRID Configuration
 
 Codes and configuration details have been provided for the video in my youtube channel,
+
 Video : How to Configure Selenium Grid | Parallel and Cross Browser automation in Grid
 
 https://youtu.be/gFCnX23li2g?t=1205
